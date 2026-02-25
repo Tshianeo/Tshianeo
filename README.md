@@ -1,7 +1,7 @@
 
 # Hi, I'm Tshianeo 👋
 
-🎯 Aspiring Data Analyst  
+🎯Data Analyst  
 🎓 BSc in Computing  
 
 I am passionate about transforming raw data into meaningful insights using SQL and data analysis techniques.
