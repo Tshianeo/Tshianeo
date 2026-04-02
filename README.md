@@ -12,7 +12,10 @@ I am passionate about transforming raw data into meaningful insights using SQL a
 - Microsoft Excel
 - Analytical Problem Solving
 
-## 📊 Featured Project
+## 📊 Featured Projects
 🔹 [COVID-19 Data Exploration Using SQL](https://github.com/Tshianeo/Covid-Data-Exploration-SQL)
 
 Analyzed infection rates, death percentages, and vaccination trends using SQL Server.
+
+🔹 [COVID Dashboard (Tableau)](https://github.com/Tshianeo/covid-dashboard-tableau)  
+Developed an interactive Tableau dashboard to visualize key COVID-19 insights and trends.
